@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Anime-themed adaptive icon -->
+    <color name="ic_launcher_purple">#6A00EE</color>
+    <color name="ic_launcher_pink">#FF2DA6</color>
+    <color name="ic_launcher_cyan">#2DFFDB</color>
+</resources>

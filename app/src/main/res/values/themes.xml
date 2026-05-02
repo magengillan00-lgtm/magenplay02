@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme with anime style -->
+    <style name="AnimeTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/anime_purple</item>
+        <item name="colorPrimaryVariant">@color/anime_pink</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/anime_cyan</item>
+        <item name="colorSecondaryVariant">@color/anime_blue</item>
+        <item name="android:statusBarColor">@color/anime_darker</item>
+        <item name="android:navigationBarColor">@color/anime_dark</item>
+    </style>
+    
+    <style name="Theme.MagenPlay02" parent="AnimeTheme">
+        <item name="colorPrimary">@color/anime_purple</item>
+        <item name="colorPrimaryVariant">@color/anime_pink</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/anime_cyan</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
